@@ -14,5 +14,3 @@ group :test do
 end
 
 gem "pry", :group => "development"
-
-
